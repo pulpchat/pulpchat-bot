@@ -1,0 +1,26 @@
+
+
+{
+    "questions_and_claims": [
+        {
+            "original_question": "Should Adults Have the Right to Carry a Concealed Handgun?",
+            "claim_positive": "Adults should have the right to carry a concealed handgun",
+            "claim_negative": "Adults should not have the right to carry a concealed handgun"
+        },
+        {
+            "original_question": "Should the US Government Regulate Prescription Drug Prices?",
+            "claim_positive": "The US Government should regulate prescription drug prices",
+            "claim_negative": "The US Government should not regulate prescription drug prices"
+        },
+        {
+            "original_question": "Should More Gun Control Laws Be Enacted?",
+            "claim_positive": "More gun control laws should be enacted",
+            "claim_negative": "More gun control laws should not be enacted"
+        },
+        {
+            "original_question": "Should Students Have to Wear School Uniforms?",
+            "claim_positive": "Students should have to wear school uniforms",
+            "claim_negative": "Students should not have to wear school uniforms"
+        }
+    ]
+}
