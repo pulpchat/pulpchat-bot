@@ -1,0 +1,544 @@
+{
+    "questions_and_claims": [
+        {
+            "questions_and_claims": [
+                {
+                    "original_question": "Should abortion be legal?",
+                    "claim_positive": "Abortion should be legal.",
+                    "claim_negative": "Abortion should not be legal."
+                },
+                {
+                    "original_question": "Can alternative energy effectively replace fossil fuels?",
+                    "claim_positive": "Alternative energy can effectively replace fossil fuels.",
+                    "claim_negative": "Alternative energy cannot effectively replace fossil fuels."
+                },
+                {
+                    "original_question": "Should the U.S. become socialist?",
+                    "claim_positive": "The U.S. should become socialist.",
+                    "claim_negative": "The U.S. should not become socialist."
+                },
+                {
+                    "original_question": "Should K-12 students dissect animals in science classrooms?",
+                    "claim_positive": "K-12 students should dissect animals in science classrooms.",
+                    "claim_negative": "K-12 students should not dissect animals in science classrooms."
+                },
+                {
+                    "original_question": "Should animals be used for scientific or commercial testing?",
+                    "claim_positive": "Animals should be used for scientific or commercial testing.",
+                    "claim_negative": "Animals should not be used for scientific or commercial testing."
+                },
+                {
+                    "original_question": "Is artificial intelligence good for society?",
+                    "claim_positive": "Artificial intelligence is good for society.",
+                    "claim_negative": "Artificial intelligence is not good for society."
+                },
+                {
+                    "original_question": "Should parents or other adults be able to ban books from schools and libraries?",
+                    "claim_positive": "Parents or other adults should be able to ban books from schools and libraries.",
+                    "claim_negative": "Parents or other adults should not be able to ban books from schools and libraries."
+                },
+                {
+                    "original_question": "Is binge-watching good for you?",
+                    "claim_positive": "Binge-watching is good for you.",
+                    "claim_negative": "Binge-watching is not good for you."
+                },
+                {
+                    "original_question": "Should bottled water be banned?",
+                    "claim_positive": "Bottled water should be banned.",
+                    "claim_negative": "Bottled water should not be banned."
+                },
+                {
+                    "original_question": "Is cancel culture (or callout culture) good for society?",
+                    "claim_positive": "Cancel culture (or callout culture) is good for society.",
+                    "claim_negative": "Cancel culture (or callout culture) is not good for society."
+                }
+            ]
+        },
+        {
+            "questions_and_claims": [
+                {
+                    "original_question": "is cbd good for pets?",
+                    "claim_positive": "CBD is beneficial for pets' health.",
+                    "claim_negative": "CBD is not beneficial for pets' health."
+                },
+                {
+                    "original_question": "is cell phone radiation safe?",
+                    "claim_positive": "Cell phone radiation is safe.",
+                    "claim_negative": "Cell phone radiation is not safe."
+                },
+                {
+                    "original_question": "should churches (including mosques, synagogues, etc.) remain tax-exempt?",
+                    "claim_positive": "Churches should remain tax-exempt.",
+                    "claim_negative": "Churches should not remain tax-exempt."
+                },
+                {
+                    "original_question": "is human activity primarily responsible for global climate change?",
+                    "claim_positive": "Human activity is primarily responsible for global climate change.",
+                    "claim_negative": "Human activity is not primarily responsible for global climate change."
+                },
+                {
+                    "original_question": "is a college education worth it?",
+                    "claim_positive": "A college education is worth it.",
+                    "claim_negative": "A college education is not worth it."
+                },
+                {
+                    "original_question": "should adults have the right to carry a concealed handgun?",
+                    "claim_positive": "Adults should have the right to carry a concealed handgun.",
+                    "claim_negative": "Adults should not have the right to carry a concealed handgun."
+                },
+                {
+                    "original_question": "should corporal punishment be used in k-12 schools?",
+                    "claim_positive": "Corporal punishment should be used in K-12 schools.",
+                    "claim_negative": "Corporal punishment should not be used in K-12 schools."
+                },
+                {
+                    "original_question": "should the federal corporate income tax rate be raised?",
+                    "claim_positive": "The federal corporate income tax rate should be raised.",
+                    "claim_negative": "The federal corporate income tax rate should not be raised."
+                },
+                {
+                    "original_question": "should the united states maintain its embargo against cuba?",
+                    "claim_positive": "The United States should maintain its embargo against Cuba.",
+                    "claim_negative": "The United States should not maintain its embargo against Cuba."
+                },
+                {
+                    "original_question": "are daca (deferred action for childhood arrivals) and the dream act good for america?",
+                    "claim_positive": "DACA and the Dream Act are good for America.",
+                    "claim_negative": "DACA and the Dream Act are not good for America."
+                }
+            ]
+        },
+        {
+            "questions_and_claims": [
+                {
+                    "original_question": "Should the United States keep Daylight Saving Time?",
+                    "claim_positive": "The United States should keep Daylight Saving Time to maximize daylight hours and reduce energy consumption.",
+                    "claim_negative": "The United States should not keep Daylight Saving Time due to the disruption of daily routines and potential health risks."
+                },
+                {
+                    "original_question": "Should Washington, DC, and Puerto Rico be granted U.S. statehood?",
+                    "claim_positive": "Washington, DC, and Puerto Rico should be granted U.S. statehood to ensure equal representation and rights for all citizens.",
+                    "claim_negative": "Washington, DC, and Puerto Rico should not be granted U.S. statehood due to the potential for increased federal spending and taxation."
+                },
+                {
+                    "original_question": "Should the death penalty be legal?",
+                    "claim_positive": "The death penalty should be legal to provide justice for victims and their families.",
+                    "claim_negative": "The death penalty should not be legal due to the potential for wrongful convictions and the inhumane nature of the punishment."
+                },
+                {
+                    "original_question": "Should police departments be defunded, if not abolished?",
+                    "claim_positive": "Police departments should be defunded or abolished to reduce police brutality and racial profiling.",
+                    "claim_negative": "Police departments should not be defunded or abolished due to the potential for increased crime and decreased public safety."
+                },
+                {
+                    "original_question": "Should dress codes be implemented and enforced?",
+                    "claim_positive": "Dress codes should be implemented and enforced to promote professionalism and respect in the workplace.",
+                    "claim_negative": "Dress codes should not be implemented and enforced due to the potential for discrimination and the restriction of personal expression."
+                },
+                {
+                    "original_question": "Should the drinking age be lowered from 21 to a younger age?",
+                    "claim_positive": "The drinking age should be lowered from 21 to a younger age to reduce underage drinking and its associated risks.",
+                    "claim_negative": "The drinking age should not be lowered from 21 to a younger age due to the potential for increased alcohol-related accidents and health risks."
+                },
+                {
+                    "original_question": "Should the United States continue its use of drone strikes abroad?",
+                    "claim_positive": "The United States should continue its use of drone strikes abroad to protect national security and reduce the risk of civilian casualties.",
+                    "claim_negative": "The United States should not continue its use of drone strikes abroad due to the potential for increased civilian casualties and the violation of international law."
+                },
+                {
+                    "original_question": "Should performance-enhancing drugs be accepted in sports?",
+                    "claim_positive": "Performance-enhancing drugs should be accepted in sports to level the playing field and reduce the risk of injury.",
+                    "claim_negative": "Performance-enhancing drugs should not be accepted in sports due to the potential for unfair advantages and the violation of ethical standards."
+                },
+                {
+                    "original_question": "Should the election day be made a national holiday?",
+                    "claim_positive": "The election day should be made a national holiday to increase voter turnout and ensure fair representation.",
+                    "claim_negative": "The election day should not be made a national holiday due to the potential for increased costs and decreased productivity."
+                },
+                {
+                    "original_question": "Should the United States use the Electoral College in presidential elections?",
+                    "claim_positive": "The United States should use the Electoral College in presidential elections to ensure fair representation of all states.",
+                    "claim_negative": "The United States should not use the Electoral College in presidential elections due to the potential for unfair outcomes and the lack of direct democracy."
+                }
+            ]
+        },
+        {
+            "questions_and_claims": [
+                {
+                    "original_question": "Should employers be able to mandate vaccinations?",
+                    "claim_positive": "Employers should be able to mandate vaccinations.",
+                    "claim_negative": "Employers should not be able to mandate vaccinations."
+                },
+                {
+                    "original_question": "Should people who have completed felony sentences be allowed to vote?",
+                    "claim_positive": "People who have completed felony sentences should be allowed to vote.",
+                    "claim_negative": "People who have completed felony sentences should not be allowed to vote."
+                },
+                {
+                    "original_question": "Should fighting be allowed in hockey?",
+                    "claim_positive": "Fighting should be allowed in hockey.",
+                    "claim_negative": "Fighting should not be allowed in hockey."
+                },
+                {
+                    "original_question": "Should the U.S. Senate keep the filibuster?",
+                    "claim_positive": "The U.S. Senate should keep the filibuster.",
+                    "claim_negative": "The U.S. Senate should not keep the filibuster."
+                },
+                {
+                    "original_question": "Should the United States continue fracking?",
+                    "claim_positive": "The United States should continue fracking.",
+                    "claim_negative": "The United States should not continue fracking."
+                },
+                {
+                    "original_question": "Should public college be tuition-free?",
+                    "claim_positive": "Public college should be tuition-free.",
+                    "claim_negative": "Public college should not be tuition-free."
+                },
+                {
+                    "original_question": "Should genetically modified organisms (GMOs) be grown?",
+                    "claim_positive": "Genetically modified organisms (GMOs) should be grown.",
+                    "claim_negative": "Genetically modified organisms (GMOs) should not be grown."
+                },
+                {
+                    "original_question": "Should the United States return to a gold standard?",
+                    "claim_positive": "The United States should return to a gold standard.",
+                    "claim_negative": "The United States should not return to a gold standard."
+                },
+                {
+                    "original_question": "Is golf a sport?",
+                    "claim_positive": "Golf is a sport.",
+                    "claim_negative": "Golf is not a sport."
+                },
+                {
+                    "original_question": "Should more gun control laws be enacted?",
+                    "claim_positive": "More gun control laws should be enacted.",
+                    "claim_negative": "More gun control laws should not be enacted."
+                }
+            ]
+        },
+        {
+            "questions_and_claims": [
+                {
+                    "original_question": "Should historic statues be taken down?",
+                    "claim_positive": "Historic statues should be taken down.",
+                    "claim_negative": "Historic statues should not be taken down."
+                },
+                {
+                    "original_question": "Is homework beneficial?",
+                    "claim_positive": "Homework is beneficial.",
+                    "claim_negative": "Homework is not beneficial."
+                },
+                {
+                    "original_question": "Should the U.S. government provide a path to citizenship for undocumented immigrants?",
+                    "claim_positive": "The U.S. government should provide a path to citizenship for undocumented immigrants.",
+                    "claim_negative": "The U.S. government should not provide a path to citizenship for undocumented immigrants."
+                },
+                {
+                    "original_question": "Is the internet “making us stupid?”",
+                    "claim_positive": "The internet is making us stupid.",
+                    "claim_negative": "The internet is not making us stupid."
+                },
+                {
+                    "original_question": "Is kneeling during the national anthem an appropriate form of protest?",
+                    "claim_positive": "Kneeling during the national anthem is an appropriate form of protest.",
+                    "claim_negative": "Kneeling during the national anthem is not an appropriate form of protest."
+                },
+                {
+                    "original_question": "Should the United States have mandatory national service?",
+                    "claim_positive": "The United States should have mandatory national service.",
+                    "claim_negative": "The United States should not have mandatory national service."
+                },
+                {
+                    "original_question": "Should medical aid in dying be legal?",
+                    "claim_positive": "Medical aid in dying should be legal.",
+                    "claim_negative": "Medical aid in dying should not be legal."
+                },
+                {
+                    "original_question": "Should medical marijuana be legal?",
+                    "claim_positive": "Medical marijuana should be legal.",
+                    "claim_negative": "Medical marijuana should not be legal."
+                },
+                {
+                    "original_question": "Should humans consume dairy milk?",
+                    "claim_positive": "Humans should consume dairy milk.",
+                    "claim_negative": "Humans should not consume dairy milk."
+                },
+                {
+                    "original_question": "Should the federal minimum wage be increased?",
+                    "claim_positive": "The federal minimum wage should be increased.",
+                    "claim_negative": "The federal minimum wage should not be increased."
+                }
+            ]
+        },
+        {
+            "questions_and_claims": [
+                {
+                    "original_question": "Should the U.S. have net neutrality laws?",
+                    "claim_positive": "The U.S. should have net neutrality laws to protect consumers.",
+                    "claim_negative": "The U.S. should not have net neutrality laws as they are unnecessary and costly."
+                },
+                {
+                    "original_question": "Is obesity a disease?",
+                    "claim_positive": "Obesity is a disease that requires medical attention.",
+                    "claim_negative": "Obesity is not a disease, but rather a lifestyle choice."
+                },
+                {
+                    "original_question": "Are the Olympic Games an overall benefit for their host countries and cities?",
+                    "claim_positive": "The Olympic Games are an overall benefit for their host countries and cities, providing economic and social benefits.",
+                    "claim_negative": "The Olympic Games are not an overall benefit for their host countries and cities, as they often lead to financial losses and social disruption."
+                },
+                {
+                    "original_question": "Should birth control pills be available over-the-counter (OTC)?",
+                    "claim_positive": "Birth control pills should be available over-the-counter (OTC) to increase access and reduce costs.",
+                    "claim_negative": "Birth control pills should not be available over-the-counter (OTC) as it could lead to misuse and abuse."
+                },
+                {
+                    "original_question": "Should colleges and universities pay college athletes?",
+                    "claim_positive": "Colleges and universities should pay college athletes to compensate them for their hard work and dedication.",
+                    "claim_negative": "Colleges and universities should not pay college athletes as it could lead to an unfair competitive advantage."
+                },
+                {
+                    "original_question": "Should the penny stay in circulation?",
+                    "claim_positive": "The penny should stay in circulation as it is an important part of our currency system.",
+                    "claim_negative": "The penny should not stay in circulation as it is no longer cost effective."
+                },
+                {
+                    "original_question": "Should breed-specific legislation (“pit bull bans”) be enacted?",
+                    "claim_positive": "Breed-specific legislation (“pit bull bans”) should be enacted to protect the public from dangerous dogs.",
+                    "claim_negative": "Breed-specific legislation (“pit bull bans”) should not be enacted as it is discriminatory and ineffective."
+                },
+                {
+                    "original_question": "Is Pokémon Go good for our society?",
+                    "claim_positive": "Pokémon Go is good for our society as it encourages physical activity and social interaction.",
+                    "claim_negative": "Pokémon Go is not good for our society as it can be distracting and lead to dangerous situations."
+                },
+                {
+                    "original_question": "Should police officers wear body cameras?",
+                    "claim_positive": "Police officers should wear body cameras to increase transparency and accountability.",
+                    "claim_negative": "Police officers should not wear body cameras as it could lead to privacy concerns and increased costs."
+                },
+                {
+                    "original_question": "Should the U.S. federal government regulate prescription drug prices?",
+                    "claim_positive": "The U.S. federal government should regulate prescription drug prices to make them more affordable for consumers.",
+                    "claim_negative": "The U.S. federal government should not regulate prescription drug prices as it could lead to decreased innovation and higher costs."
+                }
+            ]
+        },
+        {
+            "questions_and_claims": [
+                {
+                    "original_question": "should prisons be privatized?",
+                    "claim_positive": "Prisons should be privatized to increase efficiency and reduce costs.",
+                    "claim_negative": "Prisons should not be privatized to ensure that prisoners are treated humanely and fairly."
+                },
+                {
+                    "original_question": "should recreational marijuana be legal?",
+                    "claim_positive": "Recreational marijuana should be legal to reduce crime and generate tax revenue.",
+                    "claim_negative": "Recreational marijuana should not be legal to protect public health and safety."
+                },
+                {
+                    "original_question": "should the federal government pay reparations to the descendants of slaves?",
+                    "claim_positive": "The federal government should pay reparations to the descendants of slaves to recognize the wrongs of the past and promote racial justice.",
+                    "claim_negative": "The federal government should not pay reparations to the descendants of slaves to avoid creating a culture of entitlement and dependency."
+                },
+                {
+                    "original_question": "should all americans have the right (be entitled) to health care?",
+                    "claim_positive": "All Americans should have the right to health care to ensure that everyone has access to quality care.",
+                    "claim_negative": "All Americans should not have the right to health care to avoid creating an unsustainable burden on the healthcare system."
+                },
+                {
+                    "original_question": "should sanctuary cities receive federal funding?",
+                    "claim_positive": "Sanctuary cities should receive federal funding to promote public safety and protect vulnerable populations.",
+                    "claim_negative": "Sanctuary cities should not receive federal funding to ensure that federal immigration laws are enforced."
+                },
+                {
+                    "original_question": "is there really a santa claus?",
+                    "claim_positive": "There is really a Santa Claus to bring joy and magic to the holiday season.",
+                    "claim_negative": "There is not really a Santa Claus to avoid encouraging children to believe in false realities."
+                },
+                {
+                    "original_question": "should halloween be moved permanently to saturday?",
+                    "claim_positive": "Halloween should be moved permanently to Saturday to make it easier for families to celebrate.",
+                    "claim_negative": "Halloween should not be moved permanently to Saturday to maintain the traditional date of the holiday."
+                },
+                {
+                    "original_question": "should students have to wear school uniforms?",
+                    "claim_positive": "Students should have to wear school uniforms to promote school spirit and reduce distractions.",
+                    "claim_negative": "Students should not have to wear school uniforms to allow students to express themselves and their individual identities."
+                },
+                {
+                    "original_question": "should states have school voucher programs?",
+                    "claim_positive": "States should have school voucher programs to increase school choice and improve educational outcomes.",
+                    "claim_negative": "States should not have school voucher programs to ensure that public schools are adequately funded and supported."
+                },
+                {
+                    "original_question": "is social media good for society?",
+                    "claim_positive": "Social media is good for society to facilitate communication and connection.",
+                    "claim_negative": "Social media is not good for society to encourage unhealthy comparison and unrealistic expectations."
+                }
+            ]
+        },
+        {
+            "questions_and_claims": [
+                {
+                    "original_question": "should social security be privatized?",
+                    "claim_positive": "Social security should be privatized to increase economic efficiency.",
+                    "claim_negative": "Social security should not be privatized to protect vulnerable citizens."
+                },
+                {
+                    "original_question": "should humans colonize space?",
+                    "claim_positive": "Humans should colonize space to expand our knowledge and understanding of the universe.",
+                    "claim_negative": "Humans should not colonize space to avoid potential environmental damage."
+                },
+                {
+                    "original_question": "do standardized tests improve education in america?",
+                    "claim_positive": "Standardized tests improve education in America by providing a consistent measure of student performance.",
+                    "claim_negative": "Standardized tests do not improve education in America because they do not accurately measure student learning."
+                },
+                {
+                    "original_question": "should student loan debt be eliminated via forgiveness or bankruptcy?",
+                    "claim_positive": "Student loan debt should be eliminated via forgiveness or bankruptcy to provide relief to those struggling with debt.",
+                    "claim_negative": "Student loan debt should not be eliminated via forgiveness or bankruptcy to ensure responsible borrowing and repayment."
+                },
+                {
+                    "original_question": "are ride-hailing companies a benefit to society?",
+                    "claim_positive": "Ride-hailing companies are a benefit to society by providing convenient and affordable transportation.",
+                    "claim_negative": "Ride-hailing companies are not a benefit to society because they can lead to increased traffic congestion and pollution."
+                },
+                {
+                    "original_question": "should the united states implement a universal basic income?",
+                    "claim_positive": "The United States should implement a universal basic income to reduce poverty and inequality.",
+                    "claim_negative": "The United States should not implement a universal basic income because it could lead to disincentives to work and increased government spending."
+                },
+                {
+                    "original_question": "should packing the u.s. supreme court ever be considered?",
+                    "claim_positive": "Packing the U.S. Supreme Court should be considered to ensure the court reflects the will of the people.",
+                    "claim_negative": "Packing the U.S. Supreme Court should not be considered because it could lead to a politicization of the court."
+                },
+                {
+                    "original_question": "should states be allowed to mandate vaccines for school attendance??",
+                    "claim_positive": "States should be allowed to mandate vaccines for school attendance to protect public health.",
+                    "claim_negative": "States should not be allowed to mandate vaccines for school attendance to protect individual rights."
+                },
+                {
+                    "original_question": "is vaping e-cigarettes safe?",
+                    "claim_positive": "Vaping e-cigarettes is safe because it is a less harmful alternative to smoking cigarettes.",
+                    "claim_negative": "Vaping e-cigarettes is not safe because it can lead to nicotine addiction and other health risks."
+                },
+                {
+                    "original_question": "should people become vegetarian?",
+                    "claim_positive": "People should become vegetarian to reduce their environmental impact and improve their health.",
+                    "claim_negative": "People should not become vegetarian because it can be difficult to get enough nutrients and it can be expensive."
+                }
+            ]
+        },
+        {
+            "questions_and_claims": [
+                {
+                    "original_question": "Do violent video games contribute to youth violence?",
+                    "claim_positive": "Violent video games contribute to youth violence.",
+                    "claim_negative": "Violent video games do not contribute to youth violence."
+                },
+                {
+                    "original_question": "Should the voting age be lowered to 16?",
+                    "claim_positive": "The voting age should be lowered to 16.",
+                    "claim_negative": "The voting age should not be lowered to 16."
+                },
+                {
+                    "original_question": "Are electronic voting machines the best method for voting?",
+                    "claim_positive": "Electronic voting machines are the best method for voting.",
+                    "claim_negative": "Electronic voting machines are not the best method for voting."
+                },
+                {
+                    "original_question": "Should zoos exist?",
+                    "claim_positive": "Zoos should exist.",
+                    "claim_negative": "Zoos should not exist."
+                },
+                {
+                    "original_question": "Is the ACLU good for America?",
+                    "claim_positive": "The ACLU is good for America.",
+                    "claim_negative": "The ACLU is not good for America."
+                },
+                {
+                    "original_question": "Should the big three car manufacturers be bailed out by the U.S. government?",
+                    "claim_positive": "The big three car manufacturers should be bailed out by the U.S. government.",
+                    "claim_negative": "The big three car manufacturers should not be bailed out by the U.S. government."
+                },
+                {
+                    "original_question": "Is sexual orientation determined at birth?",
+                    "claim_positive": "Sexual orientation is determined at birth.",
+                    "claim_negative": "Sexual orientation is not determined at birth."
+                },
+                {
+                    "original_question": "Should college football replace the Bowl Championship Series (BCS) with a playoff system?",
+                    "claim_positive": "College football should replace the Bowl Championship Series (BCS) with a playoff system.",
+                    "claim_negative": "College football should not replace the Bowl Championship Series (BCS) with a playoff system."
+                },
+                {
+                    "original_question": "Should the Dakota Access Pipeline be completed?",
+                    "claim_positive": "The Dakota Access Pipeline should be completed.",
+                    "claim_negative": "The Dakota Access Pipeline should not be completed."
+                },
+                {
+                    "original_question": "Is the D.A.R.E. program good for America’s kids (K-12)?",
+                    "claim_positive": "The D.A.R.E. program is good for America’s kids (K-12).",
+                    "claim_negative": "The D.A.R.E. program is not good for America’s kids (K-12)."
+                }
+            ]
+        },
+        {
+            "questions_and_claims": [
+                {
+                    "original_question": "Should gay marriage be legal?",
+                    "claim_positive": "Gay marriage should be legal",
+                    "claim_negative": "Gay marriage should not be legal"
+                },
+                {
+                    "original_question": "Should insider trading by congress be allowed?",
+                    "claim_positive": "Insider trading by congress should be allowed",
+                    "claim_negative": "Insider trading by congress should not be allowed"
+                },
+                {
+                    "original_question": "What are the solutions to the Israeli-Palestinian conflict?",
+                    "claim_positive": "There are solutions to the Israeli-Palestinian conflict",
+                    "claim_negative": "There are no solutions to the Israeli-Palestinian conflict"
+                },
+                {
+                    "original_question": "Is the Patient Protection and Affordable Care Act (Obamacare) good for America?",
+                    "claim_positive": "The Patient Protection and Affordable Care Act (Obamacare) is good for America",
+                    "claim_negative": "The Patient Protection and Affordable Care Act (Obamacare) is not good for America"
+                },
+                {
+                    "original_question": "Was Bill Clinton a good president?",
+                    "claim_positive": "Bill Clinton was a good president",
+                    "claim_negative": "Bill Clinton was not a good president"
+                },
+                {
+                    "original_question": "Was Ronald Reagan a good president?",
+                    "claim_positive": "Ronald Reagan was a good president",
+                    "claim_negative": "Ronald Reagan was not a good president"
+                },
+                {
+                    "original_question": "2008, which candidate would make the best U.S. president?",
+                    "claim_positive": "A certain candidate would make the best U.S. president in 2008",
+                    "claim_negative": "No candidate would make the best U.S. president in 2008"
+                },
+                {
+                    "original_question": "2012, which candidate should be U.S. president in 2012?",
+                    "claim_positive": "A certain candidate should be U.S. president in 2012",
+                    "claim_negative": "No candidate should be U.S. president in 2012"
+                },
+                {
+                    "original_question": "2016, the candidates and where they stand on the issues",
+                    "claim_positive": "The candidates in 2016 have clear positions on the issues",
+                    "claim_negative": "The candidates in 2016 do not have clear positions on the issues"
+                },
+                {
+                    "original_question": "2020, 2020 presidential election site",
+                    "claim_positive": "The 2020 presidential election site is useful",
+                    "claim_negative": "The 2020 presidential election site is not useful"
+                }
+            ]
+        }
+    ]
+}

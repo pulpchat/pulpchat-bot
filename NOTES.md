@@ -27,6 +27,9 @@
  - https://vaccines.procon.org/
  - https://milk.procon.org/
  - https://birth-control.procon.org/
+ - https://convokit.cornell.edu/documentation/architecture.html
+ - https://aclanthology.org/2020.emnlp-main.1.pdf
+ - https://www.dataquest.io/blog/- tutorial-text-classification-in-python-using-spacy/
 
  # Resources
  - [UCSC Natural Language and Dialogue Systems](https://nlds.soe.ucsc.edu/software)
@@ -36,3 +39,11 @@
  - **Classifier**
     - Classify arguments -> (supporting, rebuttal), (premise, consequence)
     - Binary classification?
+
+Generate a counter-argument (response) for an argument (premise, consequence)
+   - Classify whether or not it's an argument
+      - Sentence structure (parts of speech)
+      - Input: Argument (text)
+      - Output: 0 or 1
+   - Detect weak sentence by analyzing sentence structure
+      - LTR parts of a sentence
